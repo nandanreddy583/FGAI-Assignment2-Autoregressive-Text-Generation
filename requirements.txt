@@ -1,0 +1,9 @@
+tensorflow==2.19.0
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+scikit-learn>=1.4
+nbformat>=5.9
+jupyter
+nbconvert
+python-docx

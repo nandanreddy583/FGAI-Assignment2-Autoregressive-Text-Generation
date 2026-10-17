@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+execution.log
+execution.err
+exec_pid.txt
+build_notebook.py
+update_conclusion.py

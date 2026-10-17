@@ -1,0 +1,25 @@
+model,seed,temperature,distinct_1,distinct_2,repetition_3
+Simple RNN,seed_opening,0.5,0.39,0.7374,0.1327
+Simple RNN,seed_opening,1.0,0.66,0.9899,0.0
+Simple RNN,seed_opening,1.5,0.84,0.9899,0.0
+Simple RNN,seed_rabbit,0.5,0.46,0.8081,0.0612
+Simple RNN,seed_rabbit,1.0,0.71,0.9798,0.0
+Simple RNN,seed_rabbit,1.5,0.87,0.9798,0.0
+Bidirectional RNN,seed_opening,0.5,0.46,0.7576,0.1224
+Bidirectional RNN,seed_opening,1.0,0.76,1.0,0.0
+Bidirectional RNN,seed_opening,1.5,0.82,0.9899,0.0
+Bidirectional RNN,seed_rabbit,0.5,0.37,0.6162,0.2449
+Bidirectional RNN,seed_rabbit,1.0,0.74,0.9798,0.0
+Bidirectional RNN,seed_rabbit,1.5,0.83,1.0,0.0
+LSTM,seed_opening,0.5,0.3,0.5657,0.2653
+LSTM,seed_opening,1.0,0.65,0.9596,0.0
+LSTM,seed_opening,1.5,0.84,1.0,0.0
+LSTM,seed_rabbit,0.5,0.38,0.7374,0.0816
+LSTM,seed_rabbit,1.0,0.68,0.9899,0.0
+LSTM,seed_rabbit,1.5,0.79,0.9899,0.0
+GRU,seed_opening,0.5,0.43,0.8182,0.0306
+GRU,seed_opening,1.0,0.66,0.9798,0.0
+GRU,seed_opening,1.5,0.83,1.0,0.0
+GRU,seed_rabbit,0.5,0.41,0.7172,0.1122
+GRU,seed_rabbit,1.0,0.64,0.9394,0.0102
+GRU,seed_rabbit,1.5,0.8,1.0,0.0
